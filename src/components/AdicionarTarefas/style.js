@@ -25,6 +25,7 @@ export const styles = StyleSheet.create({
   textYellow: {
     color: "#fff",
     marginLeft: 50,
+    fontSize: 55,
   },
   prancheta: {
     width: 5,

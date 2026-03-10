@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
     flexDirection: "column",
   },
   header: {
-    height: "40%",
+    height: "50%",
     width: "100%",
     backgroundColor: "#0047AB",
     justifyContent: "center",
@@ -21,6 +21,7 @@ export const styles = StyleSheet.create({
   },
   textYellow: {
     color: "white",
+    fontSize: 55,
   },
   listarTarefa: {
     paddingHorizontal: 20,
